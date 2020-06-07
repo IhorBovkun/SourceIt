@@ -1,4 +1,4 @@
-package hw5;
+package hw5_OOP;
 
 public class Choco extends CandyImpl {
 

@@ -1,6 +1,6 @@
-package hw5;
+package hw5_OOP;
 
-public abstract class CandyImpl extends Object implements Candy {
+public abstract class CandyImpl implements Candy {
 
     private final String name;
     private final int weight;

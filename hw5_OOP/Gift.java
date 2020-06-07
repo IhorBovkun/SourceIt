@@ -1,4 +1,4 @@
-package hw5;
+package hw5_OOP;
 
 import java.util.ArrayList;
 import java.util.Collections;
